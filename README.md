@@ -1,2 +1,3 @@
 # hello-world
-My new repository hello world project.
+I like studying human nature and nature in general.
+Coding is what I love to do!
